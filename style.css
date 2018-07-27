@@ -6,29 +6,25 @@ color:white
 }
 .left{
 float:left;
-bottom:0;
-
 }
 
 .right{
 float:right;
-
 }
 .big{
 font-size:26px
-
 }
 
 
 .title{
     padding-top:20%;
     }
-
-
 /* .space{
 padding-left:30%;
 padding-right:30%; */
-
 .colour{
 color: lightgrey
+}
+.move{
+transform: rotate(90deg);
 }
